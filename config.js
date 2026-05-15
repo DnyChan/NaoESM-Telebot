@@ -1,7 +1,7 @@
 global.token = "8704908050:AAFyoUlRZepA92Qv_Bx62E0K7MHQjdaY3Hw"
 global.ownername = "Scarlatte"
-global.ownerid = "6285788390394"
-global.premid = "6285788390394"
+global.ownerid = "5356802260"
+global.premid = "5356802260"
 global.botname = "Zoltraak Bot"
 global.prefix = ["/", ".", "#", "!"]
 global.wib = 7
