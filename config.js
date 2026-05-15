@@ -1,12 +1,12 @@
-global.token = ""
-global.ownername = ""
-global.ownerid = ""
-global.premid = ""
-global.botname = ""
+global.token = "8704908050:AAFyoUlRZepA92Qv_Bx62E0K7MHQjdaY3Hw"
+global.ownername = "Scarlatte"
+global.ownerid = "6285788390394"
+global.premid = "6285788390394"
+global.botname = "Zoltraak Bot"
 global.prefix = ["/", ".", "#", "!"]
 global.wib = 7
 global.wait = "Please wait..."
-global.wm = "© Ryzumi Network"
+global.wm = "© Scarlatte Network"
 // Message
 global.message = {
   rowner: "This command can only be used by the _*OWNER!*_",
